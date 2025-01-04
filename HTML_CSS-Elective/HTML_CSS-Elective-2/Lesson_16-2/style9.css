@@ -1,0 +1,228 @@
+/* ******************************************************************* */
+/* CLASS - button */
+/* ******************************************************************* */
+
+@-webkit-keyframes jello-horizontal {
+    0% {
+        -webkit-transform: scale3d(1, 1, 1);
+        transform: scale3d(1, 1, 1);
+    }
+
+    30% {
+        -webkit-transform: scale3d(1.25, 0.75, 1);
+        transform: scale3d(1.25, 0.75, 1);
+    }
+
+    40% {
+        -webkit-transform: scale3d(0.75, 1.25, 1);
+        transform: scale3d(0.75, 1.25, 1);
+    }
+
+    50% {
+        -webkit-transform: scale3d(1.15, 0.85, 1);
+        transform: scale3d(1.15, 0.85, 1);
+    }
+
+    65% {
+        -webkit-transform: scale3d(0.95, 1.05, 1);
+        transform: scale3d(0.95, 1.05, 1);
+    }
+
+    75% {
+        -webkit-transform: scale3d(1.05, 0.95, 1);
+        transform: scale3d(1.05, 0.95, 1);
+    }
+
+    100% {
+        -webkit-transform: scale3d(1, 1, 1);
+        transform: scale3d(1, 1, 1);
+    }
+}
+
+@keyframes jello-horizontal {
+    0% {
+        -webkit-transform: scale3d(1, 1, 1);
+        transform: scale3d(1, 1, 1);
+    }
+
+    30% {
+        -webkit-transform: scale3d(1.25, 0.75, 1);
+        transform: scale3d(1.25, 0.75, 1);
+    }
+
+    40% {
+        -webkit-transform: scale3d(0.75, 1.25, 1);
+        transform: scale3d(0.75, 1.25, 1);
+    }
+
+    50% {
+        -webkit-transform: scale3d(1.15, 0.85, 1);
+        transform: scale3d(1.15, 0.85, 1);
+    }
+
+    65% {
+        -webkit-transform: scale3d(0.95, 1.05, 1);
+        transform: scale3d(0.95, 1.05, 1);
+    }
+
+    75% {
+        -webkit-transform: scale3d(1.05, 0.95, 1);
+        transform: scale3d(1.05, 0.95, 1);
+    }
+
+    100% {
+        -webkit-transform: scale3d(1, 1, 1);
+        transform: scale3d(1, 1, 1);
+    }
+}
+
+
+.button {
+    width: 150px;
+    animation: jello-horizontal 0.9s both;
+    height: 50px;
+    background-color: purple;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+/* ******************************************************************* */
+/* CLASS - menu */
+/* ******************************************************************* */
+
+.menu__link:hover {
+    color: red;
+}
+
+.menu__link:active {
+    color: green;
+}
+
+.menu__list:first-child .menu__link {
+    text-decoration: none;
+}
+
+.menu__list:last-child .menu__link {
+    font-weight: bold;
+}
+
+.menu__list:nth-child(3) .menu__link {
+    background-color: orange;
+}
+
+/* ******************************************************************* */
+/* CLASS - icons */
+/* ******************************************************************* */
+
+.icon:hover path {
+    fill: purple;
+}
+
+.icon:active path {
+    fill: yellow;
+}
+
+/* ******************************************************************* */
+/* CLASS - content */
+/* ******************************************************************* */
+
+.item {
+    width: 150px;
+    height: 86px;
+    background-color: forestgreen;
+    border: 1px solid #000;
+    transition: transform 1s;
+}
+
+.item_1:hover {
+    transform: translateX(50px);
+}
+
+.item_2:hover {
+    transform: scale(2);
+}
+
+.item_3:hover {
+    transform: rotate(60deg);
+}
+
+
+/* ******************************************************************* */
+/* CLASS - content__2 */
+/* ******************************************************************* */
+
+.content__2 {
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-bottom: 200px;
+    position: relative;
+}
+
+.item__2 {
+    position: absolute;
+    width: 150px;
+    height: 62px;
+    background-color: rgb(44, 84, 226);
+}
+
+.item_1-1 {
+    transform: rotate(45deg);
+}
+
+.item_2-2 {
+    transform: rotate(90deg);
+}
+
+.item_3-3 {
+    transform: rotate(135deg);
+}
+
+
+
+/* ******************************************************************* */
+/* CLASS - product */
+/* ******************************************************************* */
+
+.product {
+    margin-top: 10px;
+    width: 250px;
+    padding: 24px;
+    border: 1px solid #000;
+    position: relative;
+}
+
+.product__img {
+    background-color: forestgreen;
+    height: 150px;
+}
+
+.product_new::after {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    content: 'new!';
+    width: 35px;
+    height: 35px;
+    background-color: darkred;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.product_sale::before {
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    content: 'sale';
+    width: 35px;
+    height: 35px;
+    background-color: orange;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

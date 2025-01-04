@@ -1,0 +1,166 @@
+/* Урок № 7 */
+
+
+/* 
+***************************
+Адаптивные свойства блоков 
+***************************
+*/
+
+/* .header {
+    min-height: 80px;
+    background-color: forestgreen;
+}
+
+.container {
+    max-width: 650px;
+    min-width: 320px;
+    margin: 0 auto;
+}
+.content {
+    display: flex;
+    justify-content: space-around;
+}
+
+.block {
+    width: 150px;
+    min-height: 150px;
+    border: 1px solid #000;
+} 
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.top {
+    /* height: 50vh; 
+        формат 50vh - 50 значений высоты */
+/*width: 50vw;
+         формат 50vh - 50 значений ширины 
+    min-height: 100vh;
+    background-color: forestgreen;
+}
+
+.center {
+    min-height: 100vh; /* min значение не позволяет содержимому контента выйти за пределы блока 
+    background-color: orange;
+}
+*/
+/* 
+*************************** 
+7.3. Медиа запросы 
+*************************** */
+
+/* .header {
+    height: 80px;
+    background: #ccc;
+} */
+
+/* Данный медиа запрос будет срабатывать при максимал.значении ширины 500px:
+
+@media (max-width: 500px) {
+    .header {
+        background: orange;
+        border: 1px solid #000;
+    }
+} 
+    */
+
+/* .bottom {
+    background-color: darkred;
+    width: 150px;
+    height: 50px;
+} */
+
+/* Данный медиа запрос будет срабатывать при минимал.значении ширины 600px:
+
+
+@media (min-width: 600px) {
+    .bottom {
+        display: none;        
+    }
+}*/
+
+
+/* Данный медиа запрос будет срабатывать для нескольких условиях:
+*/
+/* @media (min-width: 320px) and (max-width: 500px) {
+    .header {
+        background-color: forestgreen;       
+    }
+} */
+
+/* Обнуление стилей: блок (*) */
+/* 
+* { 
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    display: flex;
+    justify-content: space-around;
+}
+
+.product {
+    width: 180px;
+    border: 1px solid #000;
+    padding: 16px;
+    box-sizing: border-box;
+    margin-bottom: 16px;
+} */
+
+/* Для планшетного устройства заголовок будет слева, а текст справа и занимать всё пространство. Блоки располагаться друг под другом*/
+/* 
+@media (max-width: 500px) {
+    .content {
+        flex-direction: column;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 499px) {
+    .product {
+        width: 100%;
+        display: flex;
+    }
+} */
+
+/* Для мобильного устройства*/
+
+/* @media (max-width: 319px) {
+    .product {
+        width: 90%;
+        margin: 0 auto;
+    }
+} */
+
+/* 
+*************************** 
+7.4. Прижатие подвала к нижней части экрана. 
+*************************** 
+*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.top {
+    flex-grow: 1;
+}
+
+.header {
+    height: 80px;
+    background-color: #ccc;
+}
+
+.footer {
+    height: 80px;
+    background-color: grey;
+}

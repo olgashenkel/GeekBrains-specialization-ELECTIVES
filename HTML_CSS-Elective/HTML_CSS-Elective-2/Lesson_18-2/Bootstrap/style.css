@@ -1,0 +1,103 @@
+.carousel-indicators [data-bs-target] {
+    /* создание стиля .carousel-indicators с обращением к элементу [data-bs-target] */
+    /* background-color: rgb(108, 4, 4); */
+    height: 30px;
+    border-radius: 50%;
+}
+
+.carousel-control-next-icon {
+    background-image: url(../../../img/right.png);
+}
+
+.carousel-control-prev-icon {
+    background-image: url(../../../img/left.png);
+}
+
+.bg-dark {
+    --bs-bg-opacity: 1;
+    background-color: rgb(55, 54, 54) !important;
+}
+
+.navbar>.container,
+.navbar>.container-fluid,
+.navbar>.container-lg,
+.navbar>.container-md,
+.navbar>.container-sm,
+.navbar>.container-xl,
+.navbar>.container-xxl {
+    justify-content: flex-end;
+}
+
+
+.navbar {
+    position: relative;
+}
+
+.navbar-collapse {
+    position: absolute;
+    padding: 16px;
+    width: 300px;
+    background-color: rgb(55, 54, 54);
+    top: 50px;
+}
+
+.nav-item {
+    text-align: right;
+}
+
+@media (min-width: 992px) {
+    .navbar-expand-lg .navbar-collapse {        
+        position: static;
+    }
+}
+
+.footer {
+    background: #bfc1c1;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 100px;
+}
+
+.footer__list {
+    font-style: 16px;
+    line-height: 26px;
+    letter-spacing: 0.05cm;
+    color: #FFFFFF;
+    flex-grow: 1;
+    flex-basis: 33.333%;
+    list-style-type: none;
+    display: flex;
+    margin-right: 32px;
+}
+
+.footer__list:first-child::before {
+    content: "A.";
+    display: block;
+    margin-right: 16px;
+}
+
+.footer__list:nth-child(2)::before {
+    content: "T.";
+    display: block;
+    margin-right: 16px;
+}
+
+.footer__list:nth-child(3)::before {
+    content: "E.";
+    display: block;
+    margin-right: 16px;
+}
+
+
+.footer__copy {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.footer__copy-text {
+    font-style: 16px;
+    line-height: 26px;
+    letter-spacing: 0.05cm;
+    color: #FFFFFF;
+    opacity: 0.4;
+}

@@ -1,0 +1,165 @@
+/* Урок № 4 */
+
+/* * {
+    margin: 0;
+    padding: 0;
+} */
+
+/* .header {
+    border-color: #ccc;
+}
+
+.text-red {
+    color: red;
+    width: 100%;
+    height: 500px;
+}
+
+.footer {
+    background-color: grey;
+}
+
+.block {
+    border: 1px solid #000;
+    width: 350px;
+    height: 250px;
+    margin-left: 50px;
+    margin-top: 20px;
+    padding: 48px;
+    box-sizing: border-box;
+    margin-bottom: 50px;
+}
+
+.heading {
+    margin-top: 60px;
+}
+
+.block1 {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #000;
+    float: left;
+}
+
+.footer {
+    height: 50px;
+    background-color: grey;
+    clear: both;
+}
+
+.heading1 {
+    border: 1px solid red;
+    overflow: hidden;
+}
+
+.menu__list {
+    list-style-type: none;
+    border: 1px solid #000;
+    width: 200px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+}
+
+.menu__link:hover {
+    color: red;
+}
+
+.menu__link:active {
+    color: green;
+}
+
+.menu__list:first-child {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.menu__list:last-child {
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.menu__list:hover .menu__link {
+    text-decoration: none;
+}
+
+.menu__li:nth-child(1):after {
+    content: ' super new';
+    color: red;
+}
+
+.menu__li:before {
+    content: '* ';
+    color: orange;
+}
+
+.menu {
+    list-style-type: none;
+} */
+
+/* .menu__li:hover::after {
+    content: ' <<';
+}
+
+.product {
+    width: 250px;
+    border: 1px solid #000;
+}
+
+.product__img {
+    height: 150px;
+    background-color: forestgreen;
+}
+
+.product__new::after {
+    content: 'new';
+    text-transform: uppercase;
+    color: rgb(167, 10, 10);
+} */
+
+/* .text::first-letter {
+    color: red;
+    font-size: 24px;
+} */
+
+
+
+/* <!-- ТАБЛИЦЫ В HTML --> */
+
+/* Стили таблицы (IKSWEB) */
+table.iksweb {
+    text-decoration: none;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: left;
+}
+
+table.iksweb th {
+    font-weight: normal;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #348f00;
+}
+
+table.iksweb td {
+    font-size: 14px;
+    color: #000000;
+}
+
+table.iksweb td,
+table.iksweb th {
+    white-space: pre-wrap;
+    padding: 12px 20px;
+    line-height: 14px;
+    vertical-align: middle;
+    border: 1px solid #348f00;
+}
+
+table.iksweb tr:hover {
+    background-color: #f9fafb
+}
+
+table.iksweb tr:hover td {
+    color: #354251;
+    cursor: default;
+}

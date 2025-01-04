@@ -1,0 +1,131 @@
+/* p {
+    color: cornflowerblue;
+} */
+
+/* h1 {
+    background-color: darkgray;
+}
+
+.heading {
+    color: purple;
+}
+
+.back-grey {
+    background-color: grey;
+}
+
+
+.input[type="text"] {
+    color: red;
+}
+
+.block {
+    width: 90%;
+    height: 300px;
+    border: 1px solid #000;
+    background-image: url(https://mykaleidoscope.ru/x/uploads/posts/2022-09/1663219930_12-mykaleidoscope-ru-p-rasteniya-dlya-yaponskogo-sada-krasivo-15.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.heading{
+    text-align: center;
+}
+
+/* .text {
+    color: blue;
+    font-family: serif;
+} */
+
+/* .list {
+    list-style-type: none;
+} */ 
+
+
+/* ВЛОЖЕННОСТЬ:
+
+ul li a {
+    color: green;    
+}
+
+.link {
+    color: green;
+} 
+
+.menu__list {
+    border: 1px solid #000;
+}
+
+.text-up {
+    text-transform: uppercase;
+}
+
+/* НАСЛЕДОВАНИЕ (исключение составляет для ссылок - цвет применяться не будет. Цвет ссылок будет доминировать и оставться синим с нижним подчеркиванием):  */
+
+/*
+p {
+    font-size: 18px;
+    color: red;
+}
+*/
+
+/* ГРУППИРОВАНИЕ СВОЙСТВ - когда свойства повторяются их можно объединить: 
+
+Повторяющиеся значения:
+
+h1 {
+    text-align: center;
+    color: blue;
+    font-family: Verdana;
+}
+
+h2 {
+    text-align: center;
+    color: blue;
+    font-family: Arial;
+}
+
+p {
+    text-align: center;
+    color: blue;
+    font-size: 12px;
+}
+*/
+
+/* Пример объединения: 
+
+h1, h2, p {
+    text-align: center;
+    color: blue;
+}
+
+h1 {
+    font-family: Verdana;
+}
+
+h2 {
+    font-family: Arial;
+}
+
+p {
+    font-size: 12px;
+}
+*/
+
+.heading,
+.text {
+    text-align: left;
+}
+
+.heading {
+    color: purple;
+}
+
+.text {
+    color: orange;
+}
+
