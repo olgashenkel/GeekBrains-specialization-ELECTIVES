@@ -11,18 +11,18 @@
 9. [Урок 11. Параллельное программирование на примере умножения матриц - 06.03.2024](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/Bootcamp_Program/Task-11)
 10. [Урок 12. Клиент-серверное взаимодействие - 07.03.2024](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/Bootcamp_Program/Task-12)
 11. [Урок 13. Сортировка подсчётом - 08.03.2024](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/Bootcamp_Program/Task-13)
-12. [Урок 14. «Гонка» в параллельных вычислениях - 09.03.2024](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/Bootcamp_Program/Task-14)
-13. [Урок 15. Очереди задач (Redis) - 10.03.2024](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/Bootcamp_Program/Task-15)
-14. [Урок 16. OpenCV для обнаружения объектов - 11.03.2024](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/Bootcamp_Program/Task-16)
-15. [Урок 17. Html, Css, Jinja - 12.03.2024](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/Bootcamp_Program/Task-17)
-16. [Урок 18. Post, Get, Создание форм - 13.03.2024](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/Bootcamp_Program/Task-18)
-17. [Урок 19. Знакомство с принципами ООП через модуль Turtle Python - 14.03.2024](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/Bootcamp_Program/Task-19)
-18. [Урок 20. Простейшая БД с MS ACCESS - 15.03.2024](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/Bootcamp_Program/Task-20)
-19. [Урок 21. Алгоритм бинарного поиска - 16.03.2024](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/Bootcamp_Program/Task-21)
-20. [Урок 22. Visual Basic и макросы в MS Excel - 17.03.2024](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/Bootcamp_Program/Task-22)
-21. [Урок 23. Основы нечеткой логики - 18.03.2024](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/Bootcamp_Program/Task-23)
-22. [Урок 24. Генетический алгоритм как средство оптимизации - 19.03.2024](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/Bootcamp_Program/Task-24)
-23. [Урок 25. Экспертная система на Visual Prolog - 20.03.2024](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/Bootcamp_Program/Task-25)
-24. [Урок 26. ORM, SQLite3 - 22.03.2024](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/Bootcamp_Program/Task-26)
-25. [Урок 27. Основы создания телеграм-бота - 22.03.2024](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/Bootcamp_Program/Task-27)
-26. [Урок 28. Библиотека Requests в ТГ-боте - 23.03.2024](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/Bootcamp_Program/Task-28)
+12. Урок 14. «Гонка» в параллельных вычислениях - 09.03.2024
+13. Урок 15. Очереди задач (Redis) - 10.03.2024
+14. Урок 16. OpenCV для обнаружения объектов - 11.03.2024
+15. Урок 17. Html, Css, Jinja - 12.03.2024
+16. Урок 18. Post, Get, Создание форм - 13.03.2024
+17. Урок 19. Знакомство с принципами ООП через модуль Turtle Python - 14.03.2024
+18. Урок 20. Простейшая БД с MS ACCESS - 15.03.2024
+19. Урок 21. Алгоритм бинарного поиска - 16.03.2024
+20. Урок 22. Visual Basic и макросы в MS Excel - 17.03.2024
+21. Урок 23. Основы нечеткой логики - 18.03.2024
+22. Урок 24. Генетический алгоритм как средство оптимизации - 19.03.2024
+23. Урок 25. Экспертная система на Visual Prolog - 20.03.2024
+24. Урок 26. ORM, SQLite3 - 22.03.2024
+25. Урок 27. Основы создания телеграм-бота - 22.03.2024
+26. Урок 28. Библиотека Requests в ТГ-боте - 23.03.2024
