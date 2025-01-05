@@ -1,4 +1,4 @@
-## Bootcamp_Program
+## Буткемп. Программирование (факультатив) 
 
 1. [Урок 2. Алгоритмы в C#. Эффективность алгоритма - 26.02.2024](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/Bootcamp_Program/Task-02)
 2. [Урок 3. Big O Notation - 27.02.2024](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/Bootcamp_Program/Task-03)
