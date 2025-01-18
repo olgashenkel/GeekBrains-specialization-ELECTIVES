@@ -1,6 +1,6 @@
 # Разработчик — Программист. Специализация (факультативы) 
 
-- ***[Буткемп. Программирование](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/Bootcamp_Program)***
+- ***[Буткемп. Программирование](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/01.%20Bootcamp_Program)***
 
 - ***[Веб-вёрстка HTML/CSS (обучение в записи) + HTML/CSS (видеокурс)](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/02.%20HTML_CSS-Elective)***
 
