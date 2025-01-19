@@ -6,4 +6,4 @@
 
 - ***[Контроль версий углублённо (GIT). Обучение в записи](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/03.%20Version_control_in_depth_GIT)***
 
-- ***[Знакомство с веб-технологиями. Обучение в записи](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/04.%20Introduction_to_web_technologies/Seminar-01)***
+- ***[Знакомство с веб-технологиями. Обучение в записи](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/04.%20Introduction_to_web_technologies)***
