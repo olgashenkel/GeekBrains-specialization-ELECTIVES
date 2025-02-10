@@ -1,0 +1,32 @@
+{
+    "catalog": [
+        {
+            "name": "Яблоки",
+            "weight": 1000,
+            "group": "Фрукты",
+            "price": 150,
+            "number_store": 1
+        },
+        {
+            "name": "Картошка ранняя",
+            "weight": 5000,
+            "group": "Овощи",
+            "price": 320,
+            "number_store": 2
+        },
+        {
+            "name": "Бананы",
+            "weight": 1000,
+            "group": "Фрукты",
+            "price": 99,
+            "number_store": 1
+        },
+        {
+            "name": "Баунти мини",
+            "weight": 100,
+            "group": "Кондитерские изделия",
+            "price": 180,
+            "number_store": 3
+        }
+    ]
+}

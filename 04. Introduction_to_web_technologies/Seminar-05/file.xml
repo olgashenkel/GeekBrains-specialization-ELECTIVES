@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<CATALOG>
+    <BOOK>
+        <TITLE>Камил видит руками</TITLE>
+        <AUTHOR>Томаш Малковски</AUTHOR>
+        <NUMBER_OF_PAGES>146</NUMBER_OF_PAGES>
+        <PUBLICATION_DATE>2019</PUBLICATION_DATE>
+        <PRICE>863 руб</PRICE>
+    </BOOK>
+    <BOOK>
+        <TITLE>Камил видит руками</TITLE>
+        <AUTHOR>Томаш Малковски</AUTHOR>
+        <NUMBER_OF_PAGES>146</NUMBER_OF_PAGES>
+        <PUBLICATION_DATE>2019</PUBLICATION_DATE>
+        <PRICE>863 руб</PRICE>
+    </BOOK>
+    <BOOK>
+        <TITLE>Вероятности и неприятности</TITLE>
+        <AUTHOR>Сергей Самойленко</AUTHOR>
+        <NUMBER_OF_PAGES>134</NUMBER_OF_PAGES>
+        <PUBLICATION_DATE>2022</PUBLICATION_DATE>
+        <PRICE>1055 руб</PRICE>
+    </BOOK>
+    <BOOK>
+        <TITLE>Когда жизнь сбивает с ног</TITLE>
+        <AUTHOR>Расс Хэррис</AUTHOR>
+        <NUMBER_OF_PAGES>80</NUMBER_OF_PAGES>
+        <PUBLICATION_DATE>2021</PUBLICATION_DATE>
+        <PRICE>945 руб</PRICE>
+    </BOOK>
+    <BOOK>
+        <TITLE>Цветы в темноте</TITLE>
+        <AUTHOR>Cестра Данг Нгием</AUTHOR>
+        <NUMBER_OF_PAGES>124</NUMBER_OF_PAGES>
+        <PUBLICATION_DATE>2020</PUBLICATION_DATE>
+        <PRICE>1027 руб</PRICE>
+    </BOOK>
+    <BOOK>
+        <TITLE>Стратегии перемен</TITLE>
+        <AUTHOR>Джон Коттер</AUTHOR>
+        <NUMBER_OF_PAGES>102</NUMBER_OF_PAGES>
+        <PUBLICATION_DATE>2022</PUBLICATION_DATE>
+        <PRICE>1418 руб</PRICE>
+    </BOOK>
+</CATALOG>
