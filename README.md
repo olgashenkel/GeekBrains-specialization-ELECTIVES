@@ -9,3 +9,5 @@
 - ***[Знакомство с веб-технологиями. Обучение в записи](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/04.%20Introduction_to_web_technologies)***
 
 - ***[Алгоритмы и структуры данных. Обучение в записи](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/05.%20Algorithms%20and%20data%20structures)***
+
+- ***[Искусственный интеллект (Передовые технологии). Обучение в записи](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/06.%20Artificial%20intelligence)***
