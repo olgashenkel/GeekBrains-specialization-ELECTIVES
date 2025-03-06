@@ -11,3 +11,5 @@
 - ***[Алгоритмы и структуры данных. Обучение в записи](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/05.%20Algorithms%20and%20data%20structures)***
 
 - ***[Искусственный интеллект (Передовые технологии). Обучение в записи](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/06.%20Artificial%20intelligence)***
+
+- ***[Парадигмы программирования и языки парадигм. Обучение в записи](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/07.%20Programming%20paradigms%20and%20paradigm%20languages)***
