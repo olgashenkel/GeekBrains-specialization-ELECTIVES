@@ -13,3 +13,5 @@
 - ***[06. Искусственный интеллект (Передовые технологии). Обучение в записи](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/06.%20Artificial%20intelligence)***
 
 - ***[07. Парадигмы программирования и языки парадигм. Обучение в записи](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/07.%20Programming%20paradigms%20and%20paradigm%20languages)***
+
+- ***[08. Компьютерные сети. Обучение в записи](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/08.%20Computer%20networks)***
