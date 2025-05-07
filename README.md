@@ -17,3 +17,5 @@
 - ***[08. Компьютерные сети. Обучение в записи](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/08.%20Computer%20networks)***
 
 - ***[09. Введение в IoT. Обучение в записи](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/09.%20Introduction%20to%20IoT)***
+
+- ***[10. Гибкие методологии (Agile, SCRUM, Канбан и другие). Обучение в записи](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/10.%20Flexible%20methodologies%20(Agile%2C%20SCRUM%2C%20Kanban%20and%20others))***
