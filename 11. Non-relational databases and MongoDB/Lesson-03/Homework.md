@@ -201,21 +201,21 @@
 *Создание скрипта*
 
 
-    127.0.0.1:6379> eval "local result = ARGV[1] .. '^(1/2) ' .. ' = ' .. math.sqrt(ARGV[1]); redis.call('set', KEYS[1], result); return result" 1 sqr 2
+    127.0.0.1:6379> eval "local result = ARGV[1] .. '^(1/2) = ' .. math.sqrt(ARGV[1]); redis.call('set', KEYS[1], result); return result" 1 sqr 2
 
-        "2^(1/2)  = 1.4142135623731"
+        "2^(1/2) = 1.4142135623731"
 
 *Проверка значения ключа sqr с помощью get*
 
     127.0.0.1:6379> get sqr
 
-        "2^(1/2)  = 1.4142135623731"
+        "2^(1/2) = 1.4142135623731"
 
 2.	Загрузка скрипта с помощью SCRIPT LOAD
 
 *Загрузка скрипта*
 
-    127.0.0.1:6379> SCRIPT LOAD  "local result = ARGV[1] .. '^(1/2) ' .. ' = ' .. math.sqrt(ARGV[1]); redis.call('set', KEYS[1], result); return result"
+    127.0.0.1:6379> SCRIPT LOAD  "local result = ARGV[1] .. '^(1/2) = ' .. math.sqrt(ARGV[1]); redis.call('set', KEYS[1], result); return result"
         
         "3d3442065187702ec9ec0c90b385452a0cdd925e"
 
@@ -232,7 +232,7 @@
 
     127.0.0.1:6379> EVALSHA 3d3442065187702ec9ec0c90b385452a0cdd925e 1 sqr 25
         
-        "25^(1/2)  = 5"
+        "25^(1/2) = 5"
 
 
     
