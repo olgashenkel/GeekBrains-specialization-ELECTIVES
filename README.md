@@ -19,3 +19,5 @@
 - ***[09. Введение в IoT. Обучение в записи](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/09.%20Introduction%20to%20IoT)***
 
 - ***[10. Гибкие методологии (Agile, SCRUM, Канбан и другие). Обучение в записи](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/10.%20Flexible%20methodologies%20(Agile%2C%20SCRUM%2C%20Kanban%20and%20others))***
+
+- ***[11. Нереляционные базы данных и MongoDB](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/11.%20Non-relational%20databases%20and%20MongoDB)***
