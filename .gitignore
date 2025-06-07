@@ -38,6 +38,7 @@ local.properties
 *.pydevproject
 Scripts/
 Lib/
+share/
 *.cfg
 
 # CDT-specific (C/C++ Development Tooling)
