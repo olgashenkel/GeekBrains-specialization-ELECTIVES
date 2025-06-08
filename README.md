@@ -22,6 +22,6 @@
 
 - ***[11. Нереляционные базы данных и MongoDB](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/11.%20Non-relational%20databases%20and%20MongoDB)***
 
-- ***[12. Вводный курс по Big Data. Обучение в записи]()***
+- ***[12. Вводный курс по Big Data. Обучение в записи](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/12.%20Introductory%20course%20on%20Big%20Data)***
 
 - ***[13. Основы информационной безопасности. Обучение в записи](https://github.com/olgashenkel/GeekBrains-specialization-ELECTIVES/tree/main/13.%20Fundamentals%20of%20Information%20Security)***
